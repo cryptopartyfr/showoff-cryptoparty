@@ -40,8 +40,8 @@ body {
   background: url(one/grid.jpg) 0 0;
 }
 #preso, .slide {
-	width: 1440px;
-	height: 900px;
+	width: 1280;
+	height: 768px;
 	/* background: #FFFBF5 !important; */
 }
 h1 {

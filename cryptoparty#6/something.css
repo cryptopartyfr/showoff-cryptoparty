@@ -49,16 +49,16 @@ h1 {
    font-weight: normal;
    padding: 0 0 90px 0;
    margin: 0;
-   font-size: 90px;
-   line-height: 135px;
+   font-size: 70px;
+   line-height: 90px;
 }
 h2 {
    font-family: 'bodoni_egyptian_pro_boldRg', Georgia, serif;
    font-weight: normal;
    padding: 0 0 45px 0;
    margin: 0;
-   font-size: 48px;
-   line-height: 90px;
+   font-size: 40px;
+   line-height: 60px;
 }
 .content > ul {
    padding: 0 0 90px 0;
@@ -66,13 +66,22 @@ h2 {
 .content > ul > li {
    padding: 0;
    margin: 0;
-   font-size: 48px;
-   line-height: 90px;
+   font-size: 36px;
+   line-height: 60px;
 }
+
 .content p {
    padding: 0 0 90px 0;
    margin: 0;
-   line-height: 90px;
+   font-size: 36px;
+   line-height: 60px;
+}
+
+.content blockquote {
+   padding: 0 0 90px 0;
+   margin: 0;
+   font-size: 36px;
+   line-height: 60px;
 }
 b {
    font-family: 'bodoni_egyptian_pro_boldRg', Georgia, serif;
@@ -86,7 +95,7 @@ pre.sh_sourceCode {
    background: none;
 }
 code {
-   font-size: 38px;
+   font-size: 32px;
    line-height: 45px;
 }
 table {

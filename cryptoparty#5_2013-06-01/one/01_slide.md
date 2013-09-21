@@ -8,13 +8,13 @@ OpenPGP & GPG
 
 !SLIDE
 
-# Cryptography ?
+# Cryptographie ?
 
-L'art d'utiliser les mathématiques pour chiffrer et déchifrer des données
+L'art d'utiliser les mathématiques pour chiffrer et déchifrer des données.
 
 !SLIDE bullets incremental
 
-# Pourquoi a t'on besoin de la cryptographie ?
+# Pourquoi a-t-on besoin de la cryptographie?
 
 * Vie privée
 * Intégrité
@@ -23,7 +23,7 @@ L'art d'utiliser les mathématiques pour chiffrer et déchifrer des données
 
 !SLIDE bullets incremental
 
-# Deux types de cryptographies
+# Deux types de cryptographie
 
 * Symétrique
 * Asymétrique
@@ -40,39 +40,39 @@ L'art d'utiliser les mathématiques pour chiffrer et déchifrer des données
 
 # Asymétrique
 
-* Pair de clés pour une identité
+* 1 paire de clés pour 1 identité
 * une privée déchiffre et signe
 * une publique chiffre
 * Plutôt lent
-* Clés longques (2048/4096)
+* Clés longues (2048/4096)
 
 !SLIDE bullets incremental
 
 # OpenPGP/GPG ?
 
 * Pretty Good Privacy
-* Pill Zimmerman 1991
+* Phil Zimmermann 1991
 * OpenPGP
-* Gnu Privacy Guard
+* GPG: Gnu Privacy Guard
 
 !SLIDE bullets incremental
 
-# Que fais GPG ?
+# Que fait GPG ?
 
 * Chiffrement/Déchiffrement
 * Signature
 * Gestion de clés
-* Creation, certification, revocation,...
+* Création, certification, révocation,...
 
 !SLIDE bullets incremental
 
 # Web of Trust
 
 * Toile de confiance
-* On ne peut physiquement vérifier qu'un nombre limité de clé
+* On ne peut physiquement vérifier qu'un nombre limité de clés
 * Signature des clés
 
 !SLIDE bullets incremental
 
-# Server de clés
+# Serveur de clés
 

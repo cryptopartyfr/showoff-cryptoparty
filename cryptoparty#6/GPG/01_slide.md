@@ -6,28 +6,28 @@
 # OpenPGP/GPG ?
 
 * Pretty Good Privacy
-* Pilip Zimmerman 1991
+* Phil Zimmermann 1991
 * OpenPGP
-* Gnu Privacy Guard
+* GPG: Gnu Privacy Guard
 
 !SLIDE bullets incremental
 
-# Que fais GPG ?
+# Que fait GPG ?
 
 * Chiffrement/Déchiffrement
 * Signature
 * Gestion de clés
-* Creation, certification, revocation,...
+* Création, certification, révocation,...
 
 !SLIDE bullets incremental
 
 # Web of Trust
 
 * Toile de confiance
-* On ne peut physiquement vérifier qu'un nombre limité de clé
+* On ne peut physiquement vérifier qu'un nombre limité de clés
 * Signature des clés
 
 !SLIDE bullets incremental
 
-# Server de clés
+# Serveur de clés
 

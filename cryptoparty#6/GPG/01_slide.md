@@ -29,6 +29,19 @@
 
 !SLIDE bullets incremental
 
+# Un tout petit peu d'histoire: "The Crypto Wars"
+
+* Zimmermann: activiste pacifiste et antinucléaire
+* 1993 Zimmermann devient la cible d'1 enquête criminelle de la part du gouvernement américain
+* "Exportation de munitions sans license"
+* crypto avec clef > 40 bits considérée comme munitions
+* PGP: clefs de 128 bits (1993)
+* publication du code source du programme en version papier! Livre protégé par 1er amendement 
+* 1996 enquête fédérale criminelle abandonnée sans mise en examen de Zimmermann
+* démilitarisation de la "crypto forte"  = nécessité économique du chiffrement? (banque, e-commerce)
+
+!SLIDE bullets incremental
+
 # Web of Trust
 
 * Toile de confiance

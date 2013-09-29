@@ -5,10 +5,10 @@
 
 # OpenPGP/GPG ?
 
-* Pretty Good Privacy
+* PGP: Pretty Good Privacy 
 * Phil Zimmermann 1991
-* OpenPGP
-* GPG: Gnu Privacy Guard
+* OpenPGP: standard d'Internet RFC 4880
+* GPG: Gnu Privacy Guard (version 1.0.0 1999, version 2.0 2006)
 
 !SLIDE bullets incremental
 
@@ -18,6 +18,14 @@
 * Signature
 * Gestion de clés
 * Création, certification, révocation,...
+
+!SLIDE bullets incremental
+
+# Applications de GPG
+
+* Email bien sûr, mais pas que...
+* 
+*
 
 !SLIDE bullets incremental
 
